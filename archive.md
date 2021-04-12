@@ -8,7 +8,7 @@ permalink: /archive/
 iCTF Archive
 ------------
 
-* iCTF 2016-2017: [Shell We Play a Game?](ictf_2016-2017.md) (March 2017 -- delayed execution)
+* iCTF 2016-2017: [Shell We Play a Game?](archive/ictf_2016-2017.md) (March 2017 -- delayed execution)
 * iCTF 2015: [Crowdsourcing Evil]({filename}/pages/ictf_2015.md) (December 2015)
 * iCTF 2014-2015: [Large-scale Hacking]({filename}/pages/ictf_2014-2015.md) (April 2015 -- delayed execution)
 * iCTF 2013: [Nuke 'em (or duck and cover!)]({filename}/pages/ictf_2013.md) (December 2013)
