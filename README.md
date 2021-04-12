@@ -1,1 +1,1 @@
-# ictf
+# iCTF
