@@ -3,7 +3,7 @@
 The International Capture The Flag ("iCTF") is a distributed, wide-area security exercise, which aims to test the security skills of the participants.
 The iCTF is one of the world's largest and longest-running educational hacking competitions, and integrates both attack and defense aspects in a live setting.
 
-iCTF is usually held once a year, but the dates sometimes move around to accommodate the needs of the Shellphish team. 
+The iCTF is usually held once a year, but the dates sometimes move around to accommodate the needs of the Shellphish team. 
 You can find the schedule of the iCTF on [ctftime](https://ctftime.org/ctf/5).
 
 iCTF 2021
@@ -22,6 +22,10 @@ Each team also has to attempt to compromise the other teams' services.
 Since all the teams have access to an identical copy of the virtual host containing the vulnerable services, each team has to find vulnerabilities in their copy of the hosts and possibly fix the vulnerabilities without disrupting the services. 
 At the same time, the teams have to leverage their knowledge about the vulnerabilities they found to compromise the servers run by other teams.  
 Compromising a service allows a team to bypass the service's security mechanisms and to "capture the flag" associated with the service.
+These flags are then presented to the organizers as "proof of compromise" to receive "attack" points.
+The teams also receive "defense" points if they can keep their services functional and uncompromised.
+
+At the end of competition, the team with the most points wins.
 
 The iCTF Framework
 ------------------
