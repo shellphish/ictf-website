@@ -88,6 +88,31 @@ The competition was held on March 15th, 2019 with almost 400 teams participating
 
 In March 2020, the iCTF competition featured a novel component-based deployment mode, that allowed for greater scalability.
 
+Publications
+------------
+
+The organizers of the iCTF have published a number of papers about various aspects of designing and organizing security competitions:
+
+* "How Shall We Play a Game: A Game-Theoretical Model for Cyber-warfare Games," by Tiffany Bao, Yan Shoshitaishvili, Ruoyu Wang, Christopher Kruegel, Giovanni Vigna, and David Brumley, in *Proceedings of the IEEE Computer Security Foundations Symposium (CSF)*, Santa Barbara, CA, August 2017.
+
+* "Shell We Play A Game? CTF-as-a-service for Security Education," by Erik Trickel, Francesco Disperati, Eric Gustafson, Faezeh Kalantari, Mike Mabey, Naveen Tiwari, Yeganeh Safaei, Adam Doupe, and Giovanni Vigna, in *Proceedings of the USENIX Workshop on Advances in Security Education (ASE)*, Vancouver, BC, August 2017.
+
+* "Ten Years of iCTF: The Good, The Bad, and The Ugly," by Giovanni Vigna, Kevin Borgolte, Jacopo Corbetta, Adam Doupe, Yanick Fratantonio, Luca Invernizzi, Dhilung Kirat, and Yan Shoshitaishvili, in *Proceedings of the USENIX Summit on Gaming, Games and Gamification in Security Education (3GSE)*, San Diego, CA, August 2014. 
+
+* "Do You Feel Lucky? A Large-Scale Analysis of Risk-Rewards Trade-Offs in Cyber Security," by Yan Shoshitaishvili, Luca Invernizzi, Adam Doupe, and Giovanni Vigna, in *Proceedings of the ACM Symposium on Applied Computing (SAC)*, Gyeongju, Korea, March 2014.
+
+* "Formulating Cyber-Security as Convex Optimization Problems," by Kyriakos Vamvoudakis, Joao Hespanha, Richard Kemmerer, Giovanni Vigna in *Control of Cyber-Physical Systems*, Lecture Notes in Control and Information Sciences, July 2013.
+
+* "Influence of team communication and coordination on the performance of teams at the iCTF competition," by S. Jariwala, M. Champion, P. Rajivan, and N. Cooke, in *Proceedings of the Annual Conference of the Human Factors and Ergonomics Society*, Santa Monica, CA, 2012.
+
+* "Hit 'em Where it Hurts: A Live Security Exercise on Cyber Situational Awareness," by Adam Doupe, Manuel Egele, Benjamin Caillat, Gianluca Stringhini, Gorkem Yakin, Ali Zand, Ludovico Cavedon, Giovanni Vigna, in *Proceedings of the Annual Computer Security Applications Conference (ACSAC)*, Orlando, FL, December 2011. 
+
+* "Organizing Large Scale Hacking Competitions," by Nicholas Childers, Bryce Boe, Lorenzo Cavallaro, Ludovico Cavedon, Marco Cova, Manuel Egele, Giovanni Vigna, in *Proceedings of the Conference on Detection of Intrusions and Malware and Vulnerability Assessment (DIMVA)*, Bonn, Germany, July 2010.
+
+* "Teaching Network Security Through Live Exercises," by Giovanni Vigna, in *Proceedings of the Third Annual World Conference on Information Security Education (WISE)*, Monterey, CA, June 2003.
+
+* "Teaching Hands-On Network Security: Testbeds and Live Exercises," by Giovanni Vigna, in *Journal of Information Warfare*, vol. 3, no. 2 February 2003.  
+
 Point Of Contact
 ----------------
 
