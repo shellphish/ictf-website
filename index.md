@@ -1,7 +1,7 @@
 # iCTF: the International Capture The Flag Competition
 
 The International Capture The Flag ("iCTF") is a distributed, wide-area security exercise, which aims to test the security skills of the participants.
-It is one of the world's largest and longest-running educational hacking competition that integrates both attack and defense aspects in a live setting.
+The iCTF is one of the world's largest and longest-running educational hacking competitions, and integrates both attack and defense aspects in a live setting.
 
 iCTF is usually held once a year, but the dates sometimes move around to accommodate the needs of the Shellphish team. 
 You can find the schedule of the iCTF on [ctftime](https://ctftime.org/ctf/5).
