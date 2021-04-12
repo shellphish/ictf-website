@@ -9,15 +9,15 @@ You can find the schedule of the iCTF on [ctftime](https://ctftime.org/ctf/5).
 iCTF 2021
 ---------
 
-The iCTF 2021 will be happening in October 2021!
-Stay tuned for more updates and registration information.
+The iCTF 2021 is scheduled on October 15, 2021 from 10am Pacific Time to 7pm Pacific Time.
+Stay tuned for updates and registration information.
 
 Overview
 --------
 
-The Shellphish Capture The Flag contest is multi-site, multi-team hacking contest in which a number of teams compete independently against each other.
+The Shellphish iCTF contest is multi-site, multi-team hacking contest in which a number of teams compete independently against each other.
 
-In traditional editions of the iCTF competition, the goal of each team is to maintain a set of services such that they remain available and uncompromised throughout the contest phase. 
+In traditional editions of the iCTF competition, the goal of each team is to maintain a set of services so that they remain available and uncompromised throughout the contest. 
 Each team also has to attempt to compromise the other teams' services. 
 Since all the teams have access to an identical copy of the virtual host containing the vulnerable services, each team has to find vulnerabilities in their copy of the hosts and possibly fix the vulnerabilities without disrupting the services. 
 At the same time, the teams have to leverage their knowledge about the vulnerabilities they found to compromise the servers run by other teams.  
@@ -32,24 +32,24 @@ The iCTF Framework
 
 Shellphish has made available to the public the iCTF framework, which is the software infrastructure used to run the competition.
 
-The framework is available for download on GitHub:
-
-[https://github.com/shellphish/ictf-framework](https://github.com/shellphish/ictf-framework)
+The framework is available for download on GitHub: [https://github.com/shellphish/ictf-framework](https://github.com/shellphish/ictf-framework)
 
 The iCTF framework is free for both commercial and non-commercial use (donations are welcome!). 
-The iCTF competition is based on the iCTF framework and similar competitions can leverage the same framework to create other educational security competitions.
+The iCTF competition is based on the iCTF framework and similar competitions can leverage the framework to create other educational security competitions.
 
 
 History and Background
 ----------------------
 
-The iCTF evolved from a number of previous security "live exercises" that were carried out locally by Prof. [Giovanni Vigna](http://www.cs.ucsb.edu/~vigna/) at UC Santa Barbara, in 2001 and 2002. 
+The iCTF evolved from a number of security "live exercises" that were carried out locally by Prof. [Giovanni Vigna](http://www.cs.ucsb.edu/~vigna/) at UC Santa Barbara, in 2001 and 2002. 
 
-Motivated by the enthusiasm of students for security competitions, Prof. Vigna carried out the first wide-area edition of the iCTF in December 2003.
+Motivated by the student's enthusiasm for security competitions, Prof. Vigna carried out the first wide-area edition of the iCTF in December 2003.
 In that CTF, fourteen teams from around the United States competed in a contest to compromise other teams' network services while trying to protect their own services from attacks. 
 This historical contest included teams from UC Santa Barbara, North Carolina State University, the Naval Postgraduate School in Monterey, the West Point Academy, Georgia Tech, University of Texas at Austin, and University of Illinois, Urbana-Champaign.
 
 In 2004, the iCTF evolved into a truly *international* exercise (hence, the name "iCTF"), which included teams from the United States, Austria, Germany, Italy, and Norway.
+
+For many years, the iCTF was the world's largest educational security competition, and helped popularizing this type of event.
 
 Throughout the years, new competition designs have been introduced that innovated the more "traditional" designs followed in the early editions of the competition.
 
