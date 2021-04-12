@@ -6,8 +6,6 @@ It is one of the world's largest and longest-running educational hacking competi
 iCTF is usually held once a year, but the dates sometimes move around to accommodate the needs of the Shellphish team. 
 You can find the schedule of the iCTF on [ctftime](https://ctftime.org/ctf/5).
 
-Recent iCTF contests were organized by Prof. [Giovanni Vigna](http://www.cs.ucsb.edu/~vigna/) of the Department of Computer Science at UC Santa Barbara together with [Shellphish](http://www.shellphish.net/), as well as Prof. [Adam Doupé](https://adamdoupe.com/) together with [pwndevils](http://pwndevils.com/).
-
 iCTF 2021
 ---------
 
@@ -41,8 +39,9 @@ The iCTF competition is based on the iCTF framework and similar competitions can
 History and Background
 ----------------------
 
-The iCTF evolved from a number of previous security "live exercises" that were carried out locally at UC Santa Barbara, in 2001 and 2002. 
-The first wide-area edition of the iCTF was carried out in December 2003.
+The iCTF evolved from a number of previous security "live exercises" that were carried out locally by Prof. [Giovanni Vigna](http://www.cs.ucsb.edu/~vigna/) at UC Santa Barbara, in 2001 and 2002. 
+
+Motivated by the enthusiasm of students for security competitions, Prof. Vigna carried out the first wide-area edition of the iCTF in December 2003.
 In that CTF, fourteen teams from around the United States competed in a contest to compromise other teams' network services while trying to protect their own services from attacks. 
 This historical contest included teams from UC Santa Barbara, North Carolina State University, the Naval Postgraduate School in Monterey, the West Point Academy, Georgia Tech, University of Texas at Austin, and University of Illinois, Urbana-Champaign.
 
@@ -84,7 +83,6 @@ In March 2019, the iCTF competition continued to be hosted on Amazon AWS infrast
 The competition was held on March 15th, 2019 with almost 400 teams participating.
 
 In March 2020, the iCTF competition featured a novel component-based deployment mode, that allowed for greater scalability.
-
 
 Point Of Contact
 ----------------
