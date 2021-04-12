@@ -111,7 +111,7 @@ The organizers of the iCTF have published a number of papers about various aspec
 
 * "Teaching Network Security Through Live Exercises," by Giovanni Vigna, in *Proceedings of the Third Annual World Conference on Information Security Education (WISE)*, Monterey, CA, June 2003.
 
-* "Teaching Hands-On Network Security: Testbeds and Live Exercises," by Giovanni Vigna, in *Journal of Information Warfare*, vol. 3, no. 2 February 2003.  
+* "Teaching Hands-On Network Security: Testbeds and Live Exercises," by Giovanni Vigna, in *Journal of Information Warfare*, vol. 3, no. 2, February 2003.  
 
 Point Of Contact
 ----------------
