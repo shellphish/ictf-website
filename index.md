@@ -9,7 +9,7 @@ You can find the schedule of the iCTF on [ctftime](https://ctftime.org/ctf/5).
 iCTF 2021
 ---------
 
-The iCTF 2021 is scheduled on October 15, 2021 from 10am Pacific Time to 7pm Pacific Time.
+The iCTF 2021 is scheduled on December 3, 2021 from 10am Pacific Time to 7pm Pacific Time.
 Stay tuned for updates and registration information.
 
 Overview
