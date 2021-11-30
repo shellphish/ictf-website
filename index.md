@@ -12,6 +12,9 @@ iCTF 2021
 The iCTF 2021 is scheduled on December 3, 2021 from 10am Pacific Time to 7pm Pacific Time.
 Stay tuned for updates and registration information.
 
+*UPDATE*: This year's competition can be found at [ictf.gg](https://ictf.gg).
+
+
 Overview
 --------
 
