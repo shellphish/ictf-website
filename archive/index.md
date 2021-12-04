@@ -1,6 +1,7 @@
 iCTF Archive
 ------------
 
+* iCTF 2021 [HODL!]({filename}/pages/ictf_2021/) (December 2021)
 * iCTF 2016-2017: [Shell We Play a Game?]({filename}/pages/ictf_2016-2017.md) (March 2017 -- delayed execution)
 * iCTF 2015: [Crowdsourcing Evil]({filename}/pages/ictf_2015.md) (December 2015)
 * iCTF 2014-2015: [Large-scale Hacking]({filename}/pages/ictf_2014-2015.md) (April 2015 -- delayed execution)
