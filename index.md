@@ -9,11 +9,7 @@ You can find the schedule of the iCTF on [ctftime](https://ctftime.org/ctf/5).
 iCTF 2021
 ---------
 
-The iCTF 2021 is scheduled on December 3, 2021 from 10am Pacific Time to 7pm Pacific Time. 
-
-
-
-***UPDATE: This year's competition (registration, howto, and more) can be found at [ictf.gg](https://ictf.gg). The time on CTFTime is incorrect, when in doubt please refer to the times in the [ictf.gg How-To](https://ictf.gg/howto)!***
+The iCTF 2021 took place on December 3, 2021 from 10am Pacific Time to 7pm Pacific Time.
 
 ***UPDATE: iCTF 2021 is officially over, thanks to everyone organizing and all of you playing, we hope you had a blast! Archived artifacts of the competition (scoreboard, competition website) can be found at the [iCTF 2021 Archive](archive/ictf_2021)!***
 
