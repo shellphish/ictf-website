@@ -6,5 +6,5 @@ to the implementation of a CTF with lots of vulnerabilities despite the complete
 Not even the future can protect you from us evil hackers!
 
 
-* [Archived - Competition Website](registration_website)
+* [Archived - Competition Website](competition_website)
 * [Archived - Final Scoreboard](final_scoreboard)
