@@ -83,14 +83,23 @@ As a result, the 2015 iCTF featured 35 new services (and 35 teams) and tested a 
 
 In 2016, the we decided to permanently move the competition to March (and since the decision was made in October, there was no iCTF event in that year).
 
-In March 2017, the iCTF was run using Amazon Web Services (Amazon's cloud). 
+In March 2017, the iCTF was run using Amazon Web Services (Amazon's cloud).
 All components were run in an enclave, and the competition, for the first time, was open to the world, resulting in more than 280 teams participating.
 Until then, only academic teams were allowed to participate.
 
-In March 2019, the iCTF competition continued to be hosted on Amazon AWS infrastructure and introduced a new way of creating and deploying services using containers. 
+In March 2019, the iCTF competition continued to be hosted on Amazon AWS infrastructure and introduced a new way of creating and deploying services using containers.
 The competition was held on March 15th, 2019 with almost 400 teams participating.
 
 In March 2020, the iCTF competition featured a novel component-based deployment mode, that allowed for greater scalability.
+
+Archive
+-------
+
+An archive with resources for previous years can be found here:
+
+* [Archive](archive/)
+
+This is a port of an older archive so data is often missing for older entries.
 
 Publications
 ------------
