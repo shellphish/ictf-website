@@ -26,7 +26,7 @@ There are going to be two separate competitions for the two categories, even tho
 Each team cannot be composed of more than 10 people (but an institution can have multiple, non-colluding teams) and must have an associated faculty/lecturer/teacher who is responsible for the ethical behavior of the team.
 The teams need to register using this [form](TBD) by November 24. 
 
-The usual rules of a CTF apply (see :
+The usual rules of a CTF apply:
 * No Denial of Service (DoS) attacks
 * No sharing flags, exploits, or hints
 * No attacks against the infrastructure
