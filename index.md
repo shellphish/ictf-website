@@ -24,7 +24,7 @@ The team with the most points at the end of the game wins (in case of a draw, th
 The competition is educational and it is open to teams composed of high-school and undergraduate students.
 There are going to be two separate competitions for the two categories, even though the challenges are going to be the same.
 Each team cannot be composed of more than 10 people (but an institution can have multiple, non-colluding teams) and must have an associated faculty/lecturer/teacher who is responsible for the ethical behavior of the team.
-The teams need to register using this [form](TBD) by November 24. 
+The teams need to register using this [form](https://forms.gle/zwaVLg5pWT8BiveW6) by November 24.
 
 The usual rules of a CTF apply:
 * No Denial of Service (DoS) attacks
