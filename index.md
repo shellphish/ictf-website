@@ -108,14 +108,15 @@ The framework is available for download on GitHub: [https://github.com/shellphis
 The iCTF framework is free for both commercial and non-commercial use (donations are welcome!).
 The iCTF competition is based on the iCTF framework and similar competitions can leverage the framework to create other educational security competitions.
 
+<!-- 
 Archive
 -------
-
 An archive with resources for previous years can be found here:
 
 * [Archive](archive/)
 
 This is a port of an older archive so data is often missing for older entries.
+-->
 
 Publications
 ------------
