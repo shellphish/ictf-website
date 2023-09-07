@@ -33,7 +33,7 @@ The usual rules of a CTF apply:
 * THe organizers' decisions are final
 * If you misbehave, you will be warned -- if you continue to misbehave you'll be kicked out
 
-The iCTF is sponsored by [Shellphish](https://www.shellphish.net), the [ACTION NSF AI Institute](https://action.ucsb.edu), and the UCSB Women in Computer Science group.
+The iCTF is sponsored by [Shellphish](https://www.shellphish.net), the [ACTION NSF AI Institute](https://action.ucsb.edu), and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
 The competition is powered by [CTFd](https://ctfd.io/).
 
 History and Background
