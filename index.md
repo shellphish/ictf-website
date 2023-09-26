@@ -1,13 +1,13 @@
 # iCTF: the International Capture The Flag Competition
 
 The International Capture The Flag ("iCTF") is a distributed, wide-area security exercise, which aims to test the security skills of the participants.
-The iCTF is one of the world's largest and longest-running educational hacking competitions, and has the goal of educating students about security-related topics in a live setting.
+The iCTF is one of the world's largest and longest-running educational hacking competitions and has the goal of educating students about security-related topics in a live setting.
 
 iCTF 2023
 ---------
 
-The iCTF 2023 will take place on December 2, 2023 at 10 am Pacific Time to December 3, 2023 at 4 pm, Pacific Time.
-Registration deadline is November 24th at 11:59 pm Pacific Time.
+The iCTF 2023 will take place on December 2, 2023, at 10 am Pacific Time to December 3, 2023, at 4 pm, Pacific Time.
+Registration deadline is November 24th, 2023, at 11:59 pm Pacific Time.
 
 This edition of the competition has a different design and scope with respect to previous editions of the iCTF, so read the rules and instructions carefully. 
 
@@ -17,11 +17,11 @@ Instructions and Rules
 The iCTF contest is multi-site, multi-team hacking contest in which a number of teams compete independently against each other.
 Different from the past, the 2023 iCTF is challenge-based.
 This means that instead of having the teams attack each other, every team operates independently, trying to solve a set of challenges.
-Each challenge has a flag (which is looks like `ictf{ThisIsTheFlag}`) that can only be obtained by solving the challenge.
+Each challenge has a flag (which looks like `ictf{ThisIsTheFlag}`) that can only be obtained by solving the challenge.
 Once the challenge is solved, the flag is submitted to a central site for points.
 The team with the most points at the end of the game wins (in case of a draw, the team that obtained the final highest score first wins).
 
-The competition is educational and has two tracks: one for high-school teams and one for  undergraduate students.
+The competition is educational and has two tracks: one for high school teams and one for undergraduate students.
 Each team cannot be composed of more than 10 people (but an institution can have multiple, non-colluding teams) and must have an associated faculty/lecturer/teacher who is responsible for the ethical behavior of the team.
 The teams need to register using this [form](https://ictf.cs.ucsb.edu/register) by November 24.
 Please use [this link](https://discord.gg/p6NQz422GU) to join the iCTF Discord channel.
@@ -35,7 +35,7 @@ The usual rules of a CTF apply:
 
 The iCTF is sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and it is organized by [Shellphish](https://www.shellphish.net) and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
 
-For any question, please use the Discord channel or send an email to [ictf-admin@googlegroups.com](mailto:ictf-admin@googlegroups.com).
+For any questions, please use the Discord channel or send an email to [ictf-admin@googlegroups.com](mailto:ictf-admin@googlegroups.com).
 
 
 Workshop for interested teams
@@ -45,18 +45,19 @@ An informational workshop will be held on October 6th, interested teams can atte
   - [zoom meeting](https://ucsb.zoom.us/j/89763677384) (Meeting ID: 897 6367 7384)
   - Harold Frank Hall 1132 Conference room; University of California, Santa Barbara
 
+<!--
 History and Background
 ----------------------
 
 The iCTF evolved from a number of security "live exercises" that were carried out locally by Prof. [Giovanni Vigna](http://www.cs.ucsb.edu/~vigna/) at UC Santa Barbara, in 2001 and 2002.
 
-Motivated by the student's enthusiasm for security competitions, Prof. Vigna carried out the first wide-area edition of the iCTF in December 2003.
+Motivated by the students' enthusiasm for security competitions, Prof. Vigna carried out the first wide-area edition of the iCTF in December 2003.
 In that CTF, fourteen teams from around the United States competed in a contest to compromise other teams' network services while trying to protect their own services from attacks.
-This historical contest included teams from UC Santa Barbara, North Carolina State University, the Naval Postgraduate School in Monterey, the West Point Academy, Georgia Tech, University of Texas at Austin, and University of Illinois, Urbana-Champaign.
+This historical contest included teams from UC Santa Barbara, North Carolina State University, the Naval Postgraduate School in Monterey, the West Point Academy, Georgia Tech, the University of Texas at Austin, and the University of Illinois, Urbana-Champaign.
 
 In 2004, the iCTF evolved into a truly *international* exercise (hence, the name "iCTF"), which included teams from the United States, Austria, Germany, Italy, and Norway.
 
-For many years, the iCTF was the world's largest educational security competition, and helped popularizing this type of event.
+For many years, the iCTF was the world's largest educational security competition and helped popularize this type of event.
 In traditional editions of the iCTF competition, the goal of each team is to maintain a set of services so that they remain available and uncompromised throughout the contest.
 Each team also has to attempt to compromise the other teams' services.
 Since all the teams have access to an identical copy of the virtual host containing the vulnerable services, each team has to find vulnerabilities in their copy of the hosts and possibly fix the vulnerabilities without disrupting the services.
@@ -64,7 +65,7 @@ At the same time, the teams have to leverage their knowledge about the vulnerabi
 Compromising a service allows a team to bypass the service's security mechanisms and to "capture the flag" associated with the service.
 These flags are then presented to the organizers as "proof of compromise" to receive "attack" points.
 The teams also receive "defense" points if they can keep their services functional and uncompromised.
-At the end of competition, the team with the most points wins.
+At the end of the competition, the team with the most points wins.
 
 Throughout the years, new competition designs have been introduced that innovated the more "traditional" designs followed in the early editions of the competition.
 
@@ -74,7 +75,7 @@ This competition allowed for the recording of several parallel multi-stage attac
 The resulting dataset has been used as the basis for correlation and attack prediction research.
 
 In 2009, the participants had to compromise the browsers of a large group of simulated users, steal their money, and create a botnet.
-This design focused particularly on the concept of drive-by attacks, in which users are lured into visiting web sites that deliver attacks silently.
+This design focused particularly on the concept of drive-by attacks, in which users are lured into visiting websites that deliver attacks silently.
 
 In 2010, the participants were part of a coalition that had to attack the rogue nation of Litya, ruled by the evil Lisvoy Bironulesk.
 A new design forced the team to attack the services supporting Litya's infrastructure only at specific times, when certain activities were in progress.
@@ -83,7 +84,7 @@ In addition, an intrusion detection system would temporarily firewall out the te
 In 2011, the participants had to "launder" their money through the execution of exploits, which had some risks associated with them.
 This created an interesting exercise in evaluating the risk/reward trade-offs in network security.
 
-In both 2012 and 2013, teams had to "weaponize" their exploit and give them to the organizer, who would then schedule their execution.
+In both 2012 and 2013, teams had to "weaponize" their exploits and give them to the organizer, who would then schedule their execution.
 This last design was a first step towards the creation of a "cyber-range" where interesting network datasets (with ground truth) can be created to support security research.
 
 In 2014, the competition was used as a way to publicize the iCTF Framework.
@@ -92,7 +93,7 @@ To this end, the vulnerable virtual machine contained 42 services from previous 
 In 2015, the iCTF followed a novel design: in order to participate, the teams had to provide a vulnerable service that would become part of the competition.
 As a result, the 2015 iCTF featured 35 new services (and 35 teams) and tested a new set of skills, in addition to attack and defense: the ability to create a well-balanced vulnerable service.
 
-In 2016, the we decided to permanently move the competition to March (and since the decision was made in October, there was no iCTF event in that year).
+In 2016, we decided to permanently move the competition to March (and since the decision was made in October, there was no iCTF event in that year).
 
 In March 2017, the iCTF was run using Amazon Web Services (Amazon's cloud).
 All components were run in an enclave, and the competition, for the first time, was open to the world, resulting in more than 280 teams participating.
@@ -105,7 +106,8 @@ In March 2020, the iCTF competition featured a novel component-based deployment 
 
 In December 2021, we themed the competition around Decentralized Finance (DeFi), while operating under the duress introduced by COVID.
 
-In 2022, we didn't have a competition, largely due to the impact of COVID on all of Shellphish activities.
+In 2022, we didn't have a competition, largely due to the impact of COVID on all of Shellphish's activities.
+-->
 
 <!-- 
 
