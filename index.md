@@ -9,6 +9,8 @@ iCTF 2023
 ---------
 
 The iCTF 2023 will take place on December 2, 2023 at 10am Pacific Time to December 3, 2034 at 4pm Pacific Time.
+Registration deadline is November 24th at 10am Pacific Time.
+
 This edition of the competition has a different design and scope with respect to previous editions of the iCTF, so read the rules and instructions carefully. 
 
 Instructions and Rules
@@ -35,6 +37,15 @@ The usual rules of a CTF apply:
 
 The iCTF is sponsored by [Shellphish](https://www.shellphish.net), the [ACTION NSF AI Institute](https://action.ucsb.edu), and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
 The competition is powered by [CTFd](https://ctfd.io/).
+
+Workshop for interested teams
+-----------------------------
+An informational workshop will be held on October 6th, interested teams can attend the workshop online or in-person:
+
+Oct 6, 2023 12:00 PM Pacific Time (US and Canada)
+
+  - https://ucsb.zoom.us/j/89763677384 (Meeting ID: 897 6367 7384)
+  - Harold Frank Hall 1132 Conference room; University of California, Santa Barbara
 
 History and Background
 ----------------------
