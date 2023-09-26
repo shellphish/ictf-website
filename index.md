@@ -44,7 +44,7 @@ An informational workshop will be held on October 6th, interested teams can atte
 
 Oct 6, 2023 12:00 PM Pacific Time (US and Canada)
 
-  - https://ucsb.zoom.us/j/89763677384 (Meeting ID: 897 6367 7384)
+  - [zoom meeting](https://ucsb.zoom.us/j/89763677384) (Meeting ID: 897 6367 7384)
   - Harold Frank Hall 1132 Conference room; University of California, Santa Barbara
 
 History and Background
