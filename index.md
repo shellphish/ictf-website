@@ -6,41 +6,41 @@ The iCTF is one of the world's largest and longest-running educational hacking c
 iCTF 2023
 ---------
 
-The iCTF 2023 will take place on December 2, 2023 at 10am Pacific Time to December 3, 2034 at 4pm Pacific Time.
-Registration deadline is November 24th at 10am Pacific Time.
+The iCTF 2023 will take place on December 2, 2023 at 10 am Pacific Time to December 3, 2023 at 4 pm, Pacific Time.
+Registration deadline is November 24th at 11:59 pm Pacific Time.
 
 This edition of the competition has a different design and scope with respect to previous editions of the iCTF, so read the rules and instructions carefully. 
 
 Instructions and Rules
 ----------------------
 
-The Shellphish iCTF contest is multi-site, multi-team hacking contest in which a number of teams compete independently against each other.
+The iCTF contest is multi-site, multi-team hacking contest in which a number of teams compete independently against each other.
 Different from the past, the 2023 iCTF is challenge-based.
-This means that instead of having the team attack each other, every team operates independently, trying to solve a set of challenges.
+This means that instead of having the teams attack each other, every team operates independently, trying to solve a set of challenges.
 Each challenge has a flag (which is looks like `ictf{ThisIsTheFlag}`) that can only be obtained by solving the challenge.
 Once the challenge is solved, the flag is submitted to a central site for points.
 The team with the most points at the end of the game wins (in case of a draw, the team that obtained the final highest score first wins).
 
-The competition is educational and it is open to teams composed of high-school and undergraduate students.
-There are going to be two separate competitions for the two categories, even though the challenges are going to be the same.
+The competition is educational and has two tracks: one for high-school teams and one for  undergraduate students.
 Each team cannot be composed of more than 10 people (but an institution can have multiple, non-colluding teams) and must have an associated faculty/lecturer/teacher who is responsible for the ethical behavior of the team.
-The teams need to register using this [form](https://forms.gle/zwaVLg5pWT8BiveW6) by November 24.
+The teams need to register using this [form](https://ictf.cs.ucsb.edu/register) by November 24.
+Please use [this link](https://discord.gg/p6NQz422GU) to join the iCTF Discord channel.
 
 The usual rules of a CTF apply:
 * No Denial of Service (DoS) attacks
 * No sharing flags, exploits, or hints
 * No attacks against the infrastructure
-* THe organizers' decisions are final
+* The organizers' decisions are final
 * If you misbehave, you will be warned -- if you continue to misbehave you'll be kicked out
 
-The iCTF is sponsored by [Shellphish](https://www.shellphish.net), the [ACTION NSF AI Institute](https://action.ucsb.edu), and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
-The competition is powered by [CTFd](https://ctfd.io/).
+The iCTF is sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and it is organized by [Shellphish](https://www.shellphish.net) and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
+
+For any question, please use the Discord channel or send an email to [ictf-admin@googlegroups.com](mailto:ictf-admin@googlegroups.com).
+
 
 Workshop for interested teams
 -----------------------------
-An informational workshop will be held on October 6th, interested teams can attend the workshop online or in-person:
-
-Oct 6, 2023 12:00 PM Pacific Time (US and Canada)
+An informational workshop will be held on October 6th, interested teams can attend the workshop online or in-person, on Oct 6, 2023 1:00 pm Pacific Time.
 
   - [zoom meeting](https://ucsb.zoom.us/j/89763677384) (Meeting ID: 897 6367 7384)
   - Harold Frank Hall 1132 Conference room; University of California, Santa Barbara
@@ -107,6 +107,8 @@ In December 2021, we themed the competition around Decentralized Finance (DeFi),
 
 In 2022, we didn't have a competition, largely due to the impact of COVID on all of Shellphish activities.
 
+<!-- 
+
 The iCTF Framework
 ------------------
 
@@ -117,7 +119,6 @@ The framework is available for download on GitHub: [https://github.com/shellphis
 The iCTF framework is free for both commercial and non-commercial use (donations are welcome!).
 The iCTF competition is based on the iCTF framework and similar competitions can leverage the framework to create other educational security competitions.
 
-<!-- 
 Archive
 -------
 An archive with resources for previous years can be found here:
@@ -152,10 +153,11 @@ The organizers of the iCTF have published a number of papers about various aspec
 
 * "Teaching Hands-On Network Security: Testbeds and Live Exercises," by Giovanni Vigna, in *Journal of Information Warfare*, vol. 3, no. 2, February 2003.
 
+<!--
 Point Of Contact
 ----------------
 
 The International Capture The Flag (iCTF) is organized by [Shellphish](https://shellphish.net).
 
 For information contact [ictf@shellphish.net](mailto:ictf@shellphish.net).
-
+-->
