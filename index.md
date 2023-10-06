@@ -40,7 +40,7 @@ For any questions, please use the Discord channel or send an email to [ictf-admi
 
 Workshop for interested teams
 -----------------------------
-An informational workshop was held on October 6th, 2023 to introduce the iCTF, [view the recording](https://drive.google.com/file/d/1Dn3EKbIfzEgDeIl0G-Oeh5-sY3lDcoFK/view?usp=share_link).
+An informational workshop was held on October 6th, 2023 to introduce the iCTF, the workshop [was recorded](https://drive.google.com/file/d/1Dn3EKbIfzEgDeIl0G-Oeh5-sY3lDcoFK/view?usp=share_link).
 
 <!--
 History and Background
