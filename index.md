@@ -40,10 +40,7 @@ For any questions, please use the Discord channel or send an email to [ictf-admi
 
 Workshop for interested teams
 -----------------------------
-An informational workshop will be held on October 6th, interested teams can attend the workshop online or in-person, on Oct 6, 2023 1:00 pm Pacific Time.
-
-  - [zoom meeting](https://ucsb.zoom.us/j/89763677384) (Meeting ID: 897 6367 7384)
-  - Harold Frank Hall 1132 Conference room; University of California, Santa Barbara
+An informational workshop was held on October 6th, 2023 to introduce the iCTF, [view the recording](https://drive.google.com/file/d/1Dn3EKbIfzEgDeIl0G-Oeh5-sY3lDcoFK/view?usp=share_link).
 
 <!--
 History and Background
