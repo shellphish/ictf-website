@@ -6,7 +6,7 @@ The iCTF is one of the world's largest and longest-running educational hacking c
 iCTF 2023
 ---------
 
-The iCTF 2023 will take place on December 2, 2023, at 10 am Pacific Time to December 3, 2023, at 4 pm, Pacific Time.
+The iCTF 2023 will take place on December 2, 2023, at 10 am Pacific Time to December 8, 2023, at 4 pm, Pacific Time.
 Registration deadline is November 24th, 2023, at 11:59 pm Pacific Time.
 
 This edition of the competition has a different design and scope with respect to previous editions of the iCTF, so read the rules and instructions carefully. 
@@ -14,7 +14,7 @@ This edition of the competition has a different design and scope with respect to
 Instructions and Rules
 ----------------------
 
-The iCTF contest is multi-site, multi-team hacking contest in which a number of teams compete independently against each other.
+The iCTF contest is multi-site, multi-team hacking contest in which several teams compete independently against each other.
 Different from the past, the 2023 iCTF is challenge-based.
 This means that instead of having the teams attack each other, every team operates independently, trying to solve a set of challenges.
 Each challenge has a flag (which looks like `ictf{ThisIsTheFlag}`) that can only be obtained by solving the challenge.
@@ -46,10 +46,10 @@ An informational workshop was held on October 6th, 2023 to introduce the iCTF, t
 History and Background
 ----------------------
 
-The iCTF evolved from a number of security "live exercises" that were carried out locally by Prof. [Giovanni Vigna](http://www.cs.ucsb.edu/~vigna/) at UC Santa Barbara, in 2001 and 2002.
+The iCTF evolved from several security "live exercises" that were carried out locally by Prof. [Giovanni Vigna](http://www.cs.ucsb.edu/~vigna/) at UC Santa Barbara, in 2001 and 2002.
 
 Motivated by the students' enthusiasm for security competitions, Prof. Vigna carried out the first wide-area edition of the iCTF in December 2003.
-In that CTF, fourteen teams from around the United States competed in a contest to compromise other teams' network services while trying to protect their own services from attacks.
+In that CTF, fourteen teams from around the United States competed in a contest to compromise other teams' network services while trying to protect their services from attacks.
 This historical contest included teams from UC Santa Barbara, North Carolina State University, the Naval Postgraduate School in Monterey, the West Point Academy, Georgia Tech, the University of Texas at Austin, and the University of Illinois, Urbana-Champaign.
 
 In 2004, the iCTF evolved into a truly *international* exercise (hence, the name "iCTF"), which included teams from the United States, Austria, Germany, Italy, and Norway.
@@ -67,7 +67,7 @@ At the end of the competition, the team with the most points wins.
 Throughout the years, new competition designs have been introduced that innovated the more "traditional" designs followed in the early editions of the competition.
 
 More precisely, in 2008 the iCTF featured a separate virtual network for each team.
-The goal was to attack a terrorist network and defuse a bomb after compromising a number of hosts.
+The goal was to attack a terrorist network and defuse a bomb after compromising several hosts.
 This competition allowed for the recording of several parallel multi-stage attacks against the same network.
 The resulting dataset has been used as the basis for correlation and attack prediction research.
 
@@ -75,7 +75,7 @@ In 2009, the participants had to compromise the browsers of a large group of sim
 This design focused particularly on the concept of drive-by attacks, in which users are lured into visiting websites that deliver attacks silently.
 
 In 2010, the participants were part of a coalition that had to attack the rogue nation of Litya, ruled by the evil Lisvoy Bironulesk.
-A new design forced the team to attack the services supporting Litya's infrastructure only at specific times, when certain activities were in progress.
+A new design forced the team to attack the services supporting Litya's infrastructure only at specific times when certain activities were in progress.
 In addition, an intrusion detection system would temporarily firewall out the teams whose attacks were detected.
 
 In 2011, the participants had to "launder" their money through the execution of exploits, which had some risks associated with them.
@@ -87,7 +87,7 @@ This last design was a first step towards the creation of a "cyber-range" where 
 In 2014, the competition was used as a way to publicize the iCTF Framework.
 To this end, the vulnerable virtual machine contained 42 services from previous iCTF editions, which forced the participants to effectively triage their efforts.
 
-In 2015, the iCTF followed a novel design: in order to participate, the teams had to provide a vulnerable service that would become part of the competition.
+In 2015, the iCTF followed a novel design: to participate, the teams had to provide a vulnerable service that would become part of the competition.
 As a result, the 2015 iCTF featured 35 new services (and 35 teams) and tested a new set of skills, in addition to attack and defense: the ability to create a well-balanced vulnerable service.
 
 In 2016, we decided to permanently move the competition to March (and since the decision was made in October, there was no iCTF event in that year).
@@ -103,7 +103,7 @@ In March 2020, the iCTF competition featured a novel component-based deployment 
 
 In December 2021, we themed the competition around Decentralized Finance (DeFi), while operating under the duress introduced by COVID.
 
-In 2022, we didn't have a competition, largely due to the impact of COVID on all of Shellphish's activities.
+In 2022, we didn't have a competition, largely due to the impact of COVID-19 on all of Shellphish's activities.
 -->
 
 <!-- 
