@@ -15,8 +15,8 @@ First, of all the competition moved from its traditional attack/defense structur
 Second, the competition lasted for a whole week.
 Third, the iCTF was actually composed of two separate competitions, one dedicated to high school teams and one dedicated to undergraduate students (the teams were vetted and needed to have an academic advisor, going back what was done in the early versions of the iCTF).
 
-* The winner of the high school iCTF competition was team `where's my pwnthic cakes` from Çorlu Arif Nihat Asya Anadolu Lisesi (Turkey). The full scoreboard is available [here](archive/iCTF_2023/iCTF2023_highschool_scoreboard.pdf)
-* The winner of the undergraduate iCTF competition was team `b01lers` from Purdue University (USA). The full scoreboard is available [here](archive/iCTF_2023/iCTF2023_undergraduate_scoreboard.pdf) 
+* The winner of the high school iCTF competition was team `where's my pwnthic cakes` from Çorlu Arif Nihat Asya Anadolu Lisesi (Turkey). The full scoreboard is available [here](archive/iCTF_2023/iCTF2023_highschool_scoreboard.png)
+* The winner of the undergraduate iCTF competition was team `b01lers` from Purdue University (USA). The full scoreboard is available [here](archive/iCTF_2023/iCTF2023_undergraduate_scoreboard.png) 
 
 Congratulations to the winners!
 
