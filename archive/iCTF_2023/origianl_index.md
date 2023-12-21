@@ -6,21 +6,43 @@ The iCTF is one of the world's largest and longest-running educational hacking c
 iCTF 2023
 ---------
 
-The iCTF 2023 took place on December 2, 2023, at 10 am Pacific Time to December 8, 2023, at 4 pm, Pacific Time.
+The iCTF 2023 will take place on December 2, 2023, at 10 am Pacific Time to December 8, 2023, at 4 pm, Pacific Time.
+Registration deadline is November 24th, 2023, at 11:59 pm Pacific Time.
 
-The iCTF 2023 was sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and was organized by [Shellphish](https://www.shellphish.net) and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
+This edition of the competition has a different design and scope with respect to previous editions of the iCTF, so read the rules and instructions carefully. 
 
-This edition of the competition had a different design and scope with respect to previous editions of the iCTF.
-First, of all the competition moved from its traditional attack/defense structure to a challenge-based one.
-Second, the competition lasted for a whole week.
-Third, the iCTF was actually composed of two separate competitions, one dedicated to high school teams and one dedicated to undergraduate students (the teams were vetted and needed to have an academic advisor, going back what was done in the early versions of the iCTF).
+Instructions and Rules
+----------------------
 
-* The winner of the high school iCTF competition was team `where's my pwnthic cakes` from Çorlu Arif Nihat Asya Anadolu Lisesi (Turkey). The full scoreboard is available [here](archive/iCTF_2023/iCTF2023_highschool_scoreboard.pdf)
-* The winner of the undergraduate iCTF competition was team `b01lers` from Purdue University (USA). The full scoreboard is available [here](archive/iCTF_2023/iCTF2023_undergraduate_scoreboard.pdf) 
+The iCTF contest is multi-site, multi-team hacking contest in which several teams compete independently against each other.
+Different from the past, the 2023 iCTF is challenge-based.
+This means that instead of having the teams attack each other, every team operates independently, trying to solve a set of challenges.
+Each challenge has a flag (which looks like `ictf{ThisIsTheFlag}`) that can only be obtained by solving the challenge.
+Once the challenge is solved, the flag is submitted to a central site for points.
+The team with the most points at the end of the game wins (in case of a draw, the team that obtained the final highest score first wins).
 
-Congratulations to the winners!
+The competition is educational and has two tracks: one for high school teams and one for undergraduate students.
+Each team cannot be composed of more than 10 people (but an institution can have multiple, non-colluding teams) and must have an associated faculty/lecturer/teacher who is responsible for the ethical behavior of the team.
+The teams need to register using this [form](https://ictf.cs.ucsb.edu/register) by November 24.
+Please use [this link](https://discord.gg/p6NQz422GU) to join the iCTF Discord channel.
+
+The usual rules of a CTF apply:
+* No Denial of Service (DoS) attacks
+* No sharing flags, exploits, or hints
+* No attacks against the infrastructure
+* The organizers' decisions are final
+* If you misbehave, you will be warned -- if you continue to misbehave you'll be kicked out
+
+The iCTF is sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and it is organized by [Shellphish](https://www.shellphish.net) and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
+
+For any questions, please use the Discord channel or send an email to [ictf-admin@googlegroups.com](mailto:ictf-admin@googlegroups.com).
 
 
+Workshop for interested teams
+-----------------------------
+An informational workshop was held on October 6th, 2023 to introduce the iCTF, the workshop [was recorded](https://drive.google.com/file/d/1Dn3EKbIfzEgDeIl0G-Oeh5-sY3lDcoFK/view?usp=share_link).
+
+<!--
 History and Background
 ----------------------
 
@@ -37,7 +59,7 @@ In traditional editions of the iCTF competition, the goal of each team is to mai
 Each team also has to attempt to compromise the other teams' services.
 Since all the teams have access to an identical copy of the virtual host containing the vulnerable services, each team has to find vulnerabilities in their copy of the hosts and possibly fix the vulnerabilities without disrupting the services.
 At the same time, the teams have to leverage their knowledge about the vulnerabilities they found to compromise the servers run by other teams.
-Compromising a service allows a team to bypass the service's security mechanisms and to "capture the flag" associated with the service (a flag is just a string of characters, such as "Y0u F0und Th3 Fl4g".)
+Compromising a service allows a team to bypass the service's security mechanisms and to "capture the flag" associated with the service.
 These flags are then presented to the organizers as "proof of compromise" to receive "attack" points.
 The teams also receive "defense" points if they can keep their services functional and uncompromised.
 At the end of the competition, the team with the most points wins.
@@ -70,12 +92,9 @@ As a result, the 2015 iCTF featured 35 new services (and 35 teams) and tested a 
 
 In 2016, we decided to permanently move the competition to March (and since the decision was made in October, there was no iCTF event in that year).
 
-In March 2017, the iCTF was run using Amazon's cloud.
+In March 2017, the iCTF was run using Amazon Web Services (Amazon's cloud).
 All components were run in an enclave, and the competition, for the first time, was open to the world, resulting in more than 280 teams participating.
 Until then, only academic teams were allowed to participate.
-As part of this competition, we released the iCTF framework, which is the software infrastructure used to run the competition.
-The framework is available for download on GitHub: [https://github.com/shellphish/ictf-framework](https://github.com/shellphish/ictf-framework)
-
 
 In March 2019, the iCTF competition continued to be hosted on Amazon AWS infrastructure and introduced a new way of creating and deploying services using containers.
 The competition was held on March 15th, 2019 with almost 400 teams participating.
@@ -85,10 +104,20 @@ In March 2020, the iCTF competition featured a novel component-based deployment 
 In December 2021, we themed the competition around Decentralized Finance (DeFi), while operating under the duress introduced by COVID.
 
 In 2022, we didn't have a competition, largely due to the impact of COVID-19 on all of Shellphish's activities.
+-->
 
-In 2023, the competition moved to a challenge-based scheme, returned its focus on education (vetted teams), and had two separate tracks (high school and undegraduate). 
+<!-- 
 
-<!--
+The iCTF Framework
+------------------
+
+Shellphish has made available to the public the iCTF framework, which is the software infrastructure used to run the competition.
+
+The framework is available for download on GitHub: [https://github.com/shellphish/ictf-framework](https://github.com/shellphish/ictf-framework)
+
+The iCTF framework is free for both commercial and non-commercial use (donations are welcome!).
+The iCTF competition is based on the iCTF framework and similar competitions can leverage the framework to create other educational security competitions.
+
 Archive
 -------
 An archive with resources for previous years can be found here:
@@ -123,9 +152,11 @@ The organizers of the iCTF have published a number of papers about various aspec
 
 * "Teaching Hands-On Network Security: Testbeds and Live Exercises," by Giovanni Vigna, in *Journal of Information Warfare*, vol. 3, no. 2, February 2003.
 
+<!--
 Point Of Contact
 ----------------
 
 The International Capture The Flag (iCTF) is organized by [Shellphish](https://shellphish.net).
 
 For information contact [ictf@shellphish.net](mailto:ictf@shellphish.net).
+-->
