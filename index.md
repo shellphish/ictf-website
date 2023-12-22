@@ -76,7 +76,6 @@ Until then, only academic teams were allowed to participate.
 As part of this competition, we released the iCTF framework, which is the software infrastructure used to run the competition.
 The framework is available for download on GitHub: [https://github.com/shellphish/ictf-framework](https://github.com/shellphish/ictf-framework)
 
-
 In March 2019, the iCTF competition continued to be hosted on Amazon AWS infrastructure and introduced a new way of creating and deploying services using containers.
 The competition was held on March 15th, 2019 with almost 400 teams participating.
 
@@ -87,16 +86,6 @@ In December 2021, we themed the competition around Decentralized Finance (DeFi),
 In 2022, we didn't have a competition, largely due to the impact of COVID-19 on all of Shellphish's activities.
 
 In 2023, the competition moved to a challenge-based scheme, returned its focus on education (vetted teams), and had two separate tracks (high school and undegraduate). 
-
-<!--
-Archive
--------
-An archive with resources for previous years can be found here:
-
-* [Archive](archive/)
-
-This is a port of an older archive so data is often missing for older entries.
--->
 
 Publications
 ------------
