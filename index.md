@@ -3,23 +3,27 @@
 The International Capture The Flag ("iCTF") is a distributed, wide-area security exercise, which aims to test the security skills of the participants.
 The iCTF is one of the world's largest and longest-running educational hacking competitions and has the goal of educating students about security-related topics in a live setting.
 
-iCTF 2023
+iCTF 2024
 ---------
+The iCTF 2024 will take place from November 16, 2024, at 10 am Pacific Time to November 22, 2024, at 4pm Pacific Time.
 
-The iCTF 2023 took place on December 2, 2023, at 10 am Pacific Time to December 8, 2023, at 4 pm, Pacific Time.
+As for the 2023 edition of the iCTF, there are going to be two separate competitions: a competition dedicated to high school teams (hiCTF) and a competition for college undergraduate students (uniCTF).
+Both competition will be challenge-based and will use CTFd as the platform.
 
-The iCTF 2023 was sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and was organized by [Shellphish](https://www.shellphish.net) and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
+Starting on August 19, we will make available the challenges from the 2023 edition of the iCTF through a CTFd instance, to help in preparation and training.
 
-This edition of the competition had a different design and scope with respect to previous editions of the iCTF.
-First, of all the competition moved from its traditional attack/defense structure to a challenge-based one.
-Second, the competition lasted for a whole week.
-Third, the iCTF was actually composed of two separate competitions, one dedicated to high school teams and one dedicated to undergraduate students (the teams were vetted and needed to have an academic advisor, going back what was done in the early versions of the iCTF).
+In addition, we will start publishing training content focused on high school teams, so that they can better prepare for the competition.
 
-* The winner of the high school iCTF competition was team `where's my pwnthic cakes` from Çorlu Arif Nihat Asya Anadolu Lisesi (Turkey). The full scoreboard is available [here](archive/iCTF_2023/iCTF2023_highschool_scoreboard.png)
-* The winner of the undergraduate iCTF competition was team `b01lers` from Purdue University (USA). The full scoreboard is available [here](archive/iCTF_2023/iCTF2023_undergraduate_scoreboard.png) 
+We will make registration available through a Google Form as soon as possible. 
+Please check this web page regularly.
 
-Congratulations to the winners!
+In the meanwhile, if you are interested in participating, please assemble a team!
+The only things you need are:
+* One or more persons
+* A cool name
+* A team advisor who has to be a teacher or a professor. No exception. The advisor is reponsible for the ethical behavior of the team, and will be contacted in order to verify the legitimacy of the team.
 
+The 2024 iCTF is sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and was organized by [Shellphish](https://www.shellphish.net) and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
 
 History and Background
 ----------------------
@@ -85,7 +89,16 @@ In December 2021, we themed the competition around Decentralized Finance (DeFi),
 
 In 2022, we didn't have a competition, largely due to the impact of COVID-19 on all of Shellphish's activities.
 
-In 2023, the competition moved to a challenge-based scheme, returned its focus on education (vetted teams), and had two separate tracks (high school and undegraduate). 
+The iCTF 2023 took place on December 2-8, 2023.
+The iCTF 2023 was sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and was organized by [Shellphish](https://www.shellphish.net) and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
+
+This edition of the competition had a different design and scope with respect to previous editions of the iCTF.
+First, of all the competition moved from its traditional attack/defense structure to a challenge-based one.
+Second, the competition lasted for a whole week.
+Third, the iCTF was actually composed of two separate competitions, one dedicated to high school teams and one dedicated to undergraduate students (the teams were vetted and needed to have an academic advisor, going back what was done in the early versions of the iCTF).
+
+* The winner of the high school iCTF competition was team `where's my pwnthic cakes` from Çorlu Arif Nihat Asya Anadolu Lisesi (Turkey). The full scoreboard is available [here](archive/iCTF_2023/iCTF2023_highschool_scoreboard.png)
+* The winner of the undergraduate iCTF competition was team `b01lers` from Purdue University (USA). The full scoreboard is available [here](archive/iCTF_2023/iCTF2023_undergraduate_scoreboard.png) 
 
 Publications
 ------------
