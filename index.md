@@ -25,7 +25,7 @@ The only things you need are:
 
 You can register your team using this [registration form](https://forms.gle/askzauiFwJK4sCPz5).
 
-Join the [iCTF discord channel](https://discord.gg/JJfapV9J).
+Join the [iCTF discord channel](https://discord.gg/Sjry9fF4).
 
 The 2024 iCTF is sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and was organized by [Shellphish](https://www.shellphish.net) and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
 
