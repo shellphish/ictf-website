@@ -23,13 +23,13 @@ The only things you need are:
 * A cool name
 * A team advisor who has to be a teacher or a professor. No exception. The advisor is responsible for the ethical behavior of the team, and will be contacted in order to verify the legitimacy of the team.
 
-You can register your team using this [registration form](https://forms.gle/askzauiFwJK4sCPz5).
+You can register your team using this [registration form](https://ictf.cs.ucsb.edu/register).
 
-You can watch an [introductory presentation](media/iCTF_2024_Introduction.mp4).
+You can watch an [introductory presentation](https://www.youtube.com/watch?v=_IlIiEchKD0&list=PLDBSVxto95ou6GJ2DHj-y4-r6PY_dHHJU&index=1&t=4s).
 
-Join the [iCTF discord channel](https://discord.gg/VB9MKuA84w).
+Join the [iCTF discord channel](https://ictf.cs.ucsb.edu/discord), which contains pointers to training materials.
 
-
+You can watch iCTF-related presentation in the [iCTF YouTube playlist](https://www.youtube.com/playlist?list=PLDBSVxto95ou6GJ2DHj-y4-r6PY_dHHJU).
 
 The 2024 iCTF is sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and was organized by [Shellphish](https://www.shellphish.net) and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
 
