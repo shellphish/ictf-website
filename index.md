@@ -7,7 +7,7 @@ iCTF 2024
 ---------
 The iCTF 2024 will take place from November 16, 2024, at 10 am Pacific Time to November 22, 2024, at 4pm Pacific Time.
 
-As for the 2023 edition of the iCTF, there are going to be two separate competitions: a competition dedicated to high school teams (hiCTF) and a competition for college undergraduate students (uniCTF).
+There are going to be two separate competitions: a competition dedicated to high school teams (hiCTF) and a competition for college undergraduate students (uniCTF).
 Both competition will be challenge-based and will use CTFd as the platform.
 
 Starting on August 19, we will make available the challenges from the 2023 edition of the iCTF through a CTFd instance, to help in preparation and training.
