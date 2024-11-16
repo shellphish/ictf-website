@@ -23,7 +23,7 @@ The only things you need are:
 * A cool name
 * A team advisor who has to be a teacher or a professor. No exception. The advisor is responsible for the ethical behavior of the team, and will be contacted in order to verify the legitimacy of the team.
 
-You can register your team using this [registration form](https://ictf.cs.ucsb.edu/register).
+Registration is now closed.
 
 You can watch an [introductory presentation](https://www.youtube.com/watch?v=_IlIiEchKD0&list=PLDBSVxto95ou6GJ2DHj-y4-r6PY_dHHJU&index=1&t=4s).
 
