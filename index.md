@@ -14,9 +14,6 @@ Starting on August 19, we will make available the challenges from the 2023 editi
 
 In addition, we will start publishing training content focused on high school teams, so that they can better prepare for the competition.
 
-We will make registration available through a Google Form as soon as possible. 
-Please check this web page regularly.
-
 In the meanwhile, if you are interested in participating, please assemble a team!
 The only things you need are:
 * One or more persons
