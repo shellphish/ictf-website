@@ -5,33 +5,30 @@ The iCTF is one of the world's largest and longest-running educational hacking c
 
 iCTF 2024
 ---------
-The iCTF 2024 took place from November 16 to November 22, 2024.
+The iCTF 2024 will take place from November 16, 2024, at 10 am Pacific Time to November 22, 2024, at 4pm Pacific Time.
 
-### High School iCTF
+There are going to be two separate competitions: a competition dedicated to high school teams (hiCTF) and a competition for college undergraduate students (uniCTF).
+Both competition will be challenge-based and will use CTFd as the platform.
 
-1. we lost ($3,000 Prize) - Dos Pueblos High School
-2. Touch Grass ($2,000 Prize) - Panther Creek High School
-3. 4mail [disqualified from cash prizes] - Alliance Academy for Innovation
-4. 95th/Dan Ryan (CTA Red Kube) ($1,000 Prize) - University of Chicago Laboratory Schools
+Starting on August 19, we will make available the challenges from the 2023 edition of the iCTF through a CTFd instance, to help in preparation and training.
 
-Full scoreboard available [here](archive/iCTF_2024/iCTF_High_2024_Scoreboard.png).
+In addition, we will start publishing training content focused on high school teams, so that they can better prepare for the competition.
 
-### Undergraduate iCTF
+In the meanwhile, if you are interested in participating, please assemble a team!
+The only things you need are:
+* One or more persons
+* A cool name
+* A team advisor who has to be a teacher or a professor. No exception. The advisor is responsible for the ethical behavior of the team, and will be contacted in order to verify the legitimacy of the team.
 
-1. Hack_of_all_trades - UCSB
-2. Shomiti - Bangladesh University of Engineering and Technology
-3. broccoli cheddar soup - UCSB & ASU
+Registration is now closed.
 
-Full scoreboard available [here](archive/iCTF_2024/iCTF_Under_2024_Scoreboard.png).
+You can watch an [introductory presentation](https://www.youtube.com/watch?v=_IlIiEchKD0&list=PLDBSVxto95ou6GJ2DHj-y4-r6PY_dHHJU&index=1&t=4s).
+
+Join the [iCTF discord channel](https://ictf.cs.ucsb.edu/discord), which contains pointers to training materials.
+
+You can watch iCTF-related presentation in the [iCTF YouTube playlist](https://www.youtube.com/playlist?list=PLDBSVxto95ou6GJ2DHj-y4-r6PY_dHHJU).
 
 The 2024 iCTF is sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and was organized by [Shellphish](https://www.shellphish.net) and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
-
-
-iCTF 2025
----------
-
-The 2025 iCTF will (likely) happen in November 2025. Until then, teams can practice using the challenges from the [2023](https://github.com/shellphish/ictf-training-challenges) and [2024](https://github.com/shellphish/ictf24-challenges-public) editions of the competition.
-
 
 History and Background
 ----------------------
