@@ -12,6 +12,8 @@ Until then, teams can practice using the challenges from the [2023](https://gith
 
 Join the discord channel [here](https://ictf.cs.ucsb.edu/discord) and monitor the channel for announcements and training materials.  
 
+You can register a team [here](https://forms.gle/7BajfLRECsUEskF5A).
+
 The competition is sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and is organized by [Shellphish](https://www.shellphish.net).
 
 History and Background
