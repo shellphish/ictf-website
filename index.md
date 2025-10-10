@@ -3,35 +3,16 @@
 The International Capture The Flag ("iCTF") is a distributed, wide-area security exercise, which aims to test the security skills of the participants.
 The iCTF is one of the world's largest and longest-running educational hacking competitions and has the goal of educating students about security-related topics in a live setting.
 
-iCTF 2024
----------
-The iCTF 2024 took place from November 16 to November 22, 2024.
-
-### High School iCTF
-
-1. we lost ($3,000 Prize) - Dos Pueblos High School
-2. Touch Grass ($2,000 Prize) - Panther Creek High School
-3. 4mail [disqualified from cash prizes] - Alliance Academy for Innovation
-4. 95th/Dan Ryan (CTA Red Kube) ($1,000 Prize) - University of Chicago Laboratory Schools
-
-Full scoreboard available [here](archive/iCTF_2024/iCTF_High_2024_Scoreboard.png).
-
-### Undergraduate iCTF
-
-1. Hack_of_all_trades - UCSB
-2. Shomiti - Bangladesh University of Engineering and Technology
-3. broccoli cheddar soup - UCSB & ASU
-
-Full scoreboard available [here](archive/iCTF_2024/iCTF_Under_2024_Scoreboard.png).
-
-The 2024 iCTF is sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and was organized by [Shellphish](https://www.shellphish.net) and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
-
-
 iCTF 2025
 ---------
 
-The 2025 iCTF will (likely) happen in November 2025. Until then, teams can practice using the challenges from the [2023](https://github.com/shellphish/ictf-training-challenges) and [2024](https://github.com/shellphish/ictf24-challenges-public) editions of the competition.
+The 2025 iCTF is schedule from December 1st, 2025 at 10 am to December 5th, 2025 at 4 pm (Pacific Time). 
 
+Until then, teams can practice using the challenges from the [2023](https://github.com/shellphish/ictf-training-challenges) and [2024](https://github.com/shellphish/ictf24-challenges-public) editions of the competition.
+
+Join the discord channel [here](https://ictf.cs.ucsb.edu/discord) and monitor the channel for announcements and training materials.  
+
+The competition is sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and is organized by [Shellphish](https://www.shellphish.net).
 
 History and Background
 ----------------------
@@ -97,8 +78,9 @@ In December 2021, we themed the competition around Decentralized Finance (DeFi),
 
 In 2022, we didn't have a competition, largely due to the impact of COVID-19 on all of Shellphish's activities.
 
-The iCTF 2023 took place on December 2-8, 2023.
-The iCTF 2023 was sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and was organized by [Shellphish](https://www.shellphish.net) and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
+The iCTF 2023 competition took place on December 2-8, 2023.
+
+The iCTF 2023 competition was sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and was organized by [Shellphish](https://www.shellphish.net) and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
 
 This edition of the competition had a different design and scope with respect to previous editions of the iCTF.
 First, of all the competition moved from its traditional attack/defense structure to a challenge-based one.
@@ -107,6 +89,18 @@ Third, the iCTF was actually composed of two separate competitions, one dedicate
 
 * The winner of the high school iCTF competition was team `where's my pwnthic cakes` from Çorlu Arif Nihat Asya Anadolu Lisesi (Turkey). The full scoreboard is available [here](archive/iCTF_2023/iCTF2023_highschool_scoreboard.png)
 * The winner of the undergraduate iCTF competition was team `b01lers` from Purdue University (USA). The full scoreboard is available [here](archive/iCTF_2023/iCTF2023_undergraduate_scoreboard.png) 
+
+The iCTF 2024 competition was, once again, sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and was organized by [Shellphish](https://www.shellphish.net) and the [UCSB Women in Computer Science group](https://wics-ucsb.github.io/).
+
+The winner of the High School track was the team `we lost` from Dos Pueblos High School ($3,000 Prize). 
+Second place went to `Touch Grass` from Panther Creek High School ($2,000 Prize).
+Third place went to `95th/Dan Ryan (CTA Red Kube)` from University of Chicago Laboratory Schools ($1,000 Prize).
+The full scoreboard is available [here](archive/iCTF_2024/iCTF_High_2024_Scoreboard.png).
+
+The winner of the Undergraduate track was the team `Hack_of_all_trades` from UCSB, followed by `Shomiti`, from Bangladesh University of Engineering and Technology, and `broccoli cheddar soup` from UCSB and ASU.
+The full scoreboard is available [here](archive/iCTF_2024/iCTF_Under_2024_Scoreboard.png).
+
+
 
 Publications
 ------------
