@@ -3,10 +3,11 @@
 The International Capture The Flag ("iCTF") is a distributed, wide-area security exercise, which aims to test the security skills of the participants.
 The iCTF is one of the world's largest and longest-running educational hacking competitions and has the goal of educating students about security-related topics in a live setting.
 
-iCTF 2025
----------
+The Upcoming iCTF
+-----------------
 
-The 2025 iCTF is schedule from December 1st, 2025 at 10 am to December 5th, 2025 at 4 pm (Pacific Time). 
+The next iCTF is scheduled in March 9-13, 2026. 
+Note that the 2025 iCTF was originally schedule for the beginning of December 2025, but due to unforseen circumstances, we had to postponed it. 
 
 Until then, teams can practice using the challenges from the [2023](https://github.com/shellphish/ictf-training-challenges) and [2024](https://github.com/shellphish/ictf24-challenges-public) editions of the competition.
 
