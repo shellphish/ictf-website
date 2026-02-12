@@ -15,7 +15,7 @@ Join the discord channel [here](https://ictf.cs.ucsb.edu/discord) and monitor th
 
 You can register a team [here](https://ictf.cs.ucsb.edu/register).
 
-You can watch an [introductory video](https://ictf.cs.ucsb.edu/media/iCTF_2026_Introduction.mp4), or read the [presentation](https://ictf.cs.ucsb.edu/media/iCTF_2026_Slides.pdf) .
+You can watch an [introductory video](https://ictf.cs.ucsb.edu/media/iCTF_2026_Introduction.mp4), or read the [presentation](https://ictf.cs.ucsb.edu/media/iCTF_2026_Slides.pdf).
 
 
 The competition is sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and is organized by [Shellphish](https://www.shellphish.net).
