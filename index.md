@@ -7,9 +7,9 @@ The Upcoming iCTF
 -----------------
 
 The next iCTF is scheduled in March 9-13, 2026. 
-Note that the 2025 iCTF was originally scheduled for the beginning of December 2025, but due to unforeseen circumstances, we had to postpone it. 
+Note that the 2025 iCTF was originally scheduled for the beginning of December 2025, but due to unforeseen circumstances, it was postponed. 
 
-Until then, teams can practice using the challenges from the [2023](https://github.com/shellphish/ictf-training-challenges) and [2024](https://github.com/shellphish/ictf24-challenges-public) editions of the competition.
+Teams can practice using the challenges from the [2023](https://github.com/shellphish/ictf-training-challenges) and [2024](https://github.com/shellphish/ictf24-challenges-public) editions of the competition.
 
 Join the discord channel [here](https://ictf.cs.ucsb.edu/discord) and monitor the channel for announcements and training materials.  
 
@@ -17,6 +17,7 @@ You can register a team [here](https://ictf.cs.ucsb.edu/register).
 
 You can watch an [introductory video](https://ictf.cs.ucsb.edu/media/iCTF_2026_Introduction.mp4), or read the [presentation](https://ictf.cs.ucsb.edu/media/iCTF_2026_Slides.pdf).
 
+You can use [this flyer](https://ictf.cs.ucsb.edu/media/iCTF_2026_Flyer.pdf) for the competition 
 
 The competition is sponsored by the [ACTION NSF AI Institute](https://action.ucsb.edu), and is organized by [Shellphish](https://www.shellphish.net).
 
